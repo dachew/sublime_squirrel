@@ -19,13 +19,14 @@ Go to your Sublime Text 2 Packages directory and clone the repository using the 
 
 on OS X:
 
-        cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
-        git clone https://github.com/micheg/sublime_squirrel.git Squirrel
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    git clone https://github.com/micheg/sublime_squirrel.git Squirrel
 
 on Ubuntu (others linux distro?):
 
-        cd ~/.config/sublime-text-2/Packages
-        git clone https://github.com/micheg/sublime_squirrel.git Squirrel
+    cd ~/src/dachew/
+    git clone https://github.com/dachew/sublime_squirrel.git Squirrel
+    ln -s ~/src/dachew/sublime_squirrel ~/.config/sublime-text-3/Packages/Squirrel
 
 * File Download
 
